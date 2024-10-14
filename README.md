@@ -40,7 +40,7 @@ This project consists of two main parts:
    pip install opencv-python pyserial numpy
    ```
    
-2. **Run the Script**
+2. **Run the Script**:
    Run this command to run the script while the Arduino is connected to the computer:
    
    ```shell
